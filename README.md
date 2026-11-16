@@ -1,7 +1,7 @@
 # EXPERIMENT 7: FRAME-BASED LAYOUT USING REACT COMPONENTS
 
-**Name:** HANIEL REENA D R  
-**Register Number:** 2305001008  
+**Name:** JENISHA TEENA ROSE F  
+**Register Number:** 2305001010   
 **Department:** CSE
 
 ## 1. AIM
